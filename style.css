@@ -1,1 +1,14 @@
-//ESTILOS
+.cajaMenu{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    padding:  10px;
+    font-size: 10px;
+    background-color: rgba(1, 29, 15, 0.671);
+    
+}
+.conteinerImage img{
+    height: 100%;
+
+}
